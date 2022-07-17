@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <div>
-    Hello World
-  </div>
+<div class="text-3xl">
+  h1
+</div>
+  
 </template>
+
