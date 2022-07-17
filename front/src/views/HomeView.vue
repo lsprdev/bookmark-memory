@@ -1,11 +1,10 @@
 <script setup lang="ts">
+import NavBar from '../components/NavBar.vue'
 
 </script>
 
 <template>
-  <div class="flex justify-center text-3xl">
-    BookMark Memory!
-  </div>
+  <NavBar class="drop-shadow-md"/>
     
 </template>
 
